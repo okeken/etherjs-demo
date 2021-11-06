@@ -24,7 +24,7 @@ function Nft() {
                 </>
             ))
         }
-        <p>{description?.slice(0,200)}...</p>
+        <p>{description?.slice(0,80)}...</p>
        </Card>
      )
     )

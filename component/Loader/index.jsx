@@ -15,7 +15,7 @@ function Loader() {
                      <Skeleton  width='20rem' height='20rem'/>
                      </div> 
                      <Skeleton width ='10rem' height ='2rem'/>
-                     <Skeleton width ='20rem' height ='6rem'/>
+                     <Skeleton width ='20rem' height ='4rem'/>
                    
             
             </LoaderWrapper>      
